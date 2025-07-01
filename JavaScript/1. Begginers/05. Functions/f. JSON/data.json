@@ -1,0 +1,10 @@
+{
+  "name": "Ayush Jha",
+  "age": 20,
+  "email": "ayushjha.240105@gmail.com",
+  "hobbies": ["Gym", "Coding"],
+  "address": {
+    "city": "Mumbai",
+    "idk": true
+  }
+}
